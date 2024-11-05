@@ -7,7 +7,7 @@ All the code is written in Python and runs in PyTorch.
 # Dataset
 All datasets in these paper are produced and processed from https://dkasolarcentre.com.au/download?location=alice-springs.
 # Code References
-Thank you to for the following codes：
+Thank you for the following codes：
 1.https://github.com/chennnnnyize/Renewables_Scenario_Gen_GAN
 2.https://github.com/jonathandumas/generative-models
 3.https://github.com/EstebanHernandezCapel/DDPM-Power-systems-forecasting
